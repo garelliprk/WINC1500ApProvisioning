@@ -1,0 +1,2 @@
+# WINC1500ApProvisioning
+If you use the ASF Example project to build a provisioning AP on WINC1500 you can find an APK in the src folder to install in your Andorid phone and pass the credentials of your WiFi to the WINC1500... But this APK is out of date, this app will crash if you are using Android 7 because the permissions need to be requested in a different way.   Here is the APK fixed and the project for Android Studio, we have tested it and it runs ok on Android 7.
